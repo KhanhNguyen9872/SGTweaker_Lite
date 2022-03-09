@@ -1,0 +1,1 @@
+x=msgbox("SGTweaker phat hien Android 4.4.2 da cai dat  -  Viec xoa SmartGaGa Beta Lite Android 7.1.2 se xoa luon Android 4.2.2!  -  Nhan OK de lua chon!" ,0, "SGTweaker Lite v4.0")
