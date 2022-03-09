@@ -15,20 +15,24 @@ Requirements: `Windows 7 or up`, `WinRAR`
 1. Clone this repository
 
 ```bash
-git clone https://github.com/KhanhhNe/sshmanager-v2.git
-or
-Download ZIP Source
+git clone https://github.com/KhanhNguyen9872/SGTweaker_Lite.git
+cd SGTweaker_Lite
 ```
+or
+```
+Download ZIP source code
+```
+
 
 2. Install needed libraries
 
-```bash
+```
 read the readme.txt in lib directory to install it
 ```
 
 3. Compile your EXE using WinRAR
 
-```bash
+```
 compile all file in 'src' directory to a file exe using WinRAR
 ```
 4. Copy your exe file outside the main repository folder
